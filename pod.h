@@ -4,11 +4,8 @@
 #include <string>
 
 /// TASK 10.1 (BOTH) ///////////////////////////////////////////////////////////
-<<<<<<< HEAD
 #include "bms.h"
-=======
 #include "navigation.h"
->>>>>>> fixed Makefile and pod
 /// END OF TASK 10.1 (BOTH) ////////////////////////////////////////////////////
 
 class Pod
@@ -24,11 +21,8 @@ public:
   /// END OF TASKS 3A & 4B ///////////////////////////////////////////////////
 
   /// TASK 10.2 (BOTH) ///////////////////////////////////////////////////////
-<<<<<<< HEAD
   double BatteryManagementSystem bms;
-=======
-  Navigation nav;
->>>>>>> fixed Makefile and pod
+  double Navigation nav;
   /// END OF TASK 10.2 (BOTH) ////////////////////////////////////////////////
 };
 
