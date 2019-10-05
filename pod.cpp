@@ -23,11 +23,11 @@ double Pod::get_max_speed()
 }
 
 /// TASKS 3 (PERSON A) & 4 (PERSON B) //////////////////////////////////////////
-double Pod::get_temperature()
+double Pod::get_pressure()
 {
   return 800;
 }
-double Pod::get_pressure()
+double Pod::get_temperature()
 {
   return 100;
 }
