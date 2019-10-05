@@ -7,7 +7,7 @@ BatteryManagementSystem::BatteryManagementSystem()
 /// TASK 9 (BOTH) //////////////////////////////////////////////////////////////
 double BatteryManagementSystem::get_current()
 {
-    return 0;
+    return 20;
 }
 double BatteryManagementSystem::get_voltage()
 {
